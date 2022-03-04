@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo-img{
+    height: 40px;
+    width: 40px;
+}
+
+.navbar1 a{
+    text-decoration: none;
+    margin-left: 10px;
+    
+}
+
+.navbar1 a:hover{
+    color:darkgoldenrod;
+}
